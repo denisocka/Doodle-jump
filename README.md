@@ -9,3 +9,8 @@ The game was developed to practice **Windows Forms**, **basic game logic**, and 
 2. Open the solution file in Visual Studio.  
 3. Build and run the project (`F5` or `Start` button).  
 4. Use the **a or d** to move the character left and right. And use **left click on mouse or space** for attack
+
+## Screenshots
+![](screenshots/1.png)
+![](screenshots/2.png)
+![](screenshots/3.png)
